@@ -10,7 +10,7 @@ const About = () => {
 				<div>
 					<h2 className='about-text'>Let's Hangout</h2>
 					<p className='lead about-para'>
-						This is a place for the community around Fort Leonard Wood to grow and connect with.
+						This is a place for the community around Fort Leonard Wood to grow and connect.
 					</p>
 				</div>
 			</div>
