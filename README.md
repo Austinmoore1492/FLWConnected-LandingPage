@@ -1,3 +1,12 @@
+# FLW Connected Landing Page
+> Landing Page for FLW Connected-**Still in Developement**
+
+Go [here](https://wonderful-euler-7d2a57.netlify.com/) to check out the landing page!
+
+
+---------
+**Create React App**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
