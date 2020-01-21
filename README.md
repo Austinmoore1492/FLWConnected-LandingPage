@@ -1,7 +1,7 @@
 # FLW Connected Landing Page
 > Landing Page for FLW Connected-**Still in Developement**
 
-Go [here](https://wonderful-euler-7d2a57.netlify.com/) to check out the landing page!
+Go [here](https://www.flwconnect.org/) to check out the landing page!
 
 
 ---------
