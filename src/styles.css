@@ -258,6 +258,13 @@ input {
 }
 
 /* About Page */
+#about {
+  border-bottom: 3px solid #ff5100;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
 .about-what {
   grid-area: what;
 }
@@ -288,6 +295,7 @@ input {
 .scroll-handler {
   font-size: 2rem;
   margin-top: 1rem;
+  border-bottom: 3px solid var(--primary-color);
   color: #f0f0f0;
   transition: all 0.3s ease;
 }
@@ -339,6 +347,7 @@ input {
   }
   .scroll-handler:hover {
     color: var(--primary-color);
+    border-color: #ff5100;
   }
   .container,
   .signup-container {
