@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b430025e-bc51-4edf-9e48-16410713fab2/deploy-status)](https://app.netlify.com/sites/wonderful-euler-7d2a57/deploys)
+
 # FLW Connected Landing Page
 > Landing Page for FLW Connected-**Still in Developement**
 
