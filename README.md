@@ -1,5 +1,5 @@
 # FLW Connected Landing Page
-> Landing Page for FLW Connected-**Still in Developement**
+> Landing Page for FLW Connected-**Main Site Is Still in Developement**
 
 Go [here](https://www.flwconnect.org/) to check out the landing page!
 
