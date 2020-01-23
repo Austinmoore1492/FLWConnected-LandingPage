@@ -20,7 +20,7 @@ const Navbar = () => {
   return (
     <nav id="navbar" className="navbar bg-dark">
       <AnchorLink href="#home">
-        <h1 className="home">FLW Connected</h1>
+        <h2 className="home">FLW Connected</h2>
       </AnchorLink>
     </nav>
   );

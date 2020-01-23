@@ -271,6 +271,10 @@ input {
   margin-bottom: 2rem;
 }
 
+.about-text {
+  font-size: 1.8rem;
+}
+
 .about-what {
   grid-area: what;
 }

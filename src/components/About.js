@@ -8,7 +8,7 @@ const About = () => {
       </h2>
       <div className="about-page text-center">
         <div>
-          <h2 className="about-text">Let's Hangout</h2>
+          <h3 className="about-text">Let's Hangout</h3>
           <p className="lead about-para">
             This is a place for the community around Fort Leonard Wood to grow
             and connect.
