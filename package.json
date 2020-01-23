@@ -31,5 +31,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "Fort Leonard Wood",
+    "Fort Wood",
+    "FLW",
+    "Pulaski",
+    "Connect"
+  ],
+  "description": "FLW Connected Landing Page. Make sure you sign up for the email to get notified about when the site goes live."
 }
