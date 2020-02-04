@@ -5,6 +5,7 @@ import Landing from './components/Landing';
 import Navbar from './components/Navbar';
 import About from './components/About';
 import SignUp from './components/SignUp';
+import Footer from './components/Footer';
 
 const App = () => (
   <Fragment>
@@ -12,6 +13,7 @@ const App = () => (
     <Landing />
     <About />
     <SignUp />
+    <Footer />
   </Fragment>
 );
 
