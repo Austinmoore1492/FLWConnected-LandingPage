@@ -47,7 +47,7 @@ input {
 
 /* Utilities */
 .container,
-.signup-container {
+.features-container {
   max-width: 1000px;
   margin: auto;
   overflow: hidden;
@@ -59,7 +59,7 @@ input {
   border-radius: 2rem 0;
 }
 
-.signup-container {
+.features-container {
   border-radius: 0px 2rem;
 }
 
@@ -295,6 +295,35 @@ input {
   grid-gap: 1rem;
 }
 
+#features {
+  border-bottom: 3px solid #ff5100;
+  width: 80%;
+  font-size: 2.2rem;
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+.features-grid {
+  display: -ms-grid;
+  display: grid;
+  grid-template-areas:
+    'privacy local'
+    'reaction reaction';
+  grid-gap: 1rem;
+}
+
+.features-privacy {
+  grid-area: privacy;
+}
+
+.features-local {
+  grid-area: local;
+}
+
+.features-reaction {
+  grid-area: reaction;
+}
+
 .bg-white {
   background: #f7f7f7;
   color: #333;
@@ -322,7 +351,7 @@ input {
 
 .footer-flex {
   /* margin-bottom: 0; */
-  display: flex; 
+  display: flex;
   flex-direction: row;
   justify-content: center;
 }
@@ -333,7 +362,7 @@ input {
 
 @media (max-width: 800px) {
   .container,
-  .signup-container {
+  .features-container {
     max-width: 90%;
   }
   .x-large {
@@ -364,8 +393,17 @@ input {
     font-size: 1.5rem;
     text-align: center;
   }
+  #features {
+    font-size: 1.5rem;
+  }
   .about-grid {
     grid-template-areas: 'what' 'who';
+  }
+  .features-grid {
+    grid-template-areas: 'privacy' 'local' 'reaction';
+  }
+  .justify-text {
+    text-align: justify;
   }
   .home {
     text-align: center;
@@ -387,7 +425,7 @@ input {
     border-color: #ff5100;
   }
   .container,
-  .signup-container {
+  .features-container {
     box-shadow: 4px 4px 8px #777, 7px 7px 15px #ddd;
   }
 }

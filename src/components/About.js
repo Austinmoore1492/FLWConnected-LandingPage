@@ -20,7 +20,7 @@ const About = () => {
         <div className="about-what bg-white p-2">
           <h2 className="text-primary medium">What is this place</h2>
           <div>
-            <p className="lead-para">
+            <p className="lead-para justify-text">
               We know larger social media sites offer alot for everyone, but
               there is no small town feel to it. Here we can share with people
               from our community and get a better insight as to whats going on
@@ -31,7 +31,7 @@ const About = () => {
         <div className="about-who bg-white p-2">
           <h2 className="text-primary medium">Who we are</h2>
           <div>
-            <p className="lead-para">
+            <p className="lead-para justify-text">
               We are just a couple of people from our community that wanted a
               better place for us to connect to those we love to hangout with.
               We wanted to bring our community together.
