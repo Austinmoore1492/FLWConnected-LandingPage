@@ -13,7 +13,9 @@ const App = () => (
     <Navbar />
     <Landing />
     <About />
+    <hr className="hr-style" />
     <Features />
+    <hr className="hr-style" />
     <SignUp />
     <Footer />
   </Fragment>

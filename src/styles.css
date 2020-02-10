@@ -45,6 +45,17 @@ input {
   border-radius: 0;
 }
 
+.hr-style {
+  border: 0;
+  height: 3px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(255, 81, 0, 1),
+    rgba(0, 0, 0, 0)
+  );
+}
+
 /* Utilities */
 .container,
 .features-container {
